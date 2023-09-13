@@ -35,8 +35,8 @@ public class testMain {
 
         CarManager carManager = new CarManager();
 
-        carManager.Contact(car1);
-        carManager.Contact(car2);
+        carManager.contact(car1);
+        carManager.like(car2);
 
     }
 }
