@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CsharptoJavaDemo/CsharptoJavaDemo.iml" filepath="$PROJECT_DIR$/CsharptoJavaDemo/CsharptoJavaDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaReactCamp.iml" filepath="$PROJECT_DIR$/.idea/JavaReactCamp.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopIntro/OopIntro.iml" filepath="$PROJECT_DIR$/OopIntro/OopIntro.iml" />
     </modules>
