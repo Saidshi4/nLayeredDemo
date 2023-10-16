@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaReactCamp.iml" filepath="$PROJECT_DIR$/.idea/JavaReactCamp.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopIntro/OopIntro.iml" filepath="$PROJECT_DIR$/OopIntro/OopIntro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nLayeredDemo/nLayeredDemo.iml" filepath="$PROJECT_DIR$/nLayeredDemo/nLayeredDemo.iml" />
     </modules>
   </component>
 </project>
