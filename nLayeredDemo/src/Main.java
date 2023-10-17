@@ -6,7 +6,8 @@ import entities.concretes.Product;
 public class Main {
     public static void main(String[] args) {
         ProductService productService = new ProductManager(new HibernateProductDao());
-        Product product = new Product(1,2,"said",12,50);
+
+        Product product = new Product(0,2,"alma",12,50);
         productService.add(product);
     }
 }
